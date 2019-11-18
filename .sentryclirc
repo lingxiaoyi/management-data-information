@@ -1,0 +1,7 @@
+[defaults]
+url = https://sentry.tt.cn
+org = xmfe
+project = zyinput-middleground
+
+[auth]
+token = f34265d49f9d4b7cafef9986d5301cd85c17f3018bcd4b708471376c1ab6d026
